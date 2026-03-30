@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @telukwg
-- 👀 I’m interested in GIS/Geospatial and Stuff
-- 🌱 I’m currently learning FastAPI+Pydantic
+- 👀 I’m interested in Python, API's, Networking, GIS/Geospatial, 3D Visualisation and Stuff
+- 🌱 I’m currently learning Blender Rigging, and Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
